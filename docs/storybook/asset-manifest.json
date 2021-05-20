@@ -2,13 +2,13 @@
   "files": {
     "0.404595dd.iframe.bundle.js": "./0.404595dd.iframe.bundle.js",
     "main.css": "./static/css/main.29376224.chunk.css",
-    "main.js": "./main.854655d3.iframe.bundle.js",
+    "main.js": "./main.895d8746.iframe.bundle.js",
     "main.css.map": "./static/css/main.29376224.chunk.css.map",
     "runtime~main.js": "./runtime~main.b2b9dbb4.iframe.bundle.js",
     "vendors~main.css": "./static/css/vendors~main.8f40190a.chunk.css",
-    "vendors~main.js": "./vendors~main.77660344.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.3b7ea390.iframe.bundle.js",
     "vendors~main.css.map": "./static/css/vendors~main.8f40190a.chunk.css.map",
-    "vendors~main.js.map": "./vendors~main.77660344.iframe.bundle.js.map",
+    "vendors~main.js.map": "./vendors~main.3b7ea390.iframe.bundle.js.map",
     "4.ed7256e3.iframe.bundle.js": "./4.ed7256e3.iframe.bundle.js",
     "4.ed7256e3.iframe.bundle.js.map": "./4.ed7256e3.iframe.bundle.js.map",
     "5.aa22e3bd.iframe.bundle.js": "./5.aa22e3bd.iframe.bundle.js",
@@ -18,14 +18,13 @@
     "4.ed7256e3.iframe.bundle.js.LICENSE.txt": "./4.ed7256e3.iframe.bundle.js.LICENSE.txt",
     "6.f4b83fdb.iframe.bundle.js.LICENSE.txt": "./6.f4b83fdb.iframe.bundle.js.LICENSE.txt",
     "iframe.html": "./iframe.html",
-    "static/media/PlayPageBackground.98ae4d3a.png": "./static/media/PlayPageBackground.98ae4d3a.png",
-    "vendors~main.77660344.iframe.bundle.js.LICENSE.txt": "./vendors~main.77660344.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.3b7ea390.iframe.bundle.js.LICENSE.txt": "./vendors~main.3b7ea390.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
     "runtime~main.b2b9dbb4.iframe.bundle.js",
     "static/css/vendors~main.8f40190a.chunk.css",
-    "vendors~main.77660344.iframe.bundle.js",
+    "vendors~main.3b7ea390.iframe.bundle.js",
     "static/css/main.29376224.chunk.css",
-    "main.854655d3.iframe.bundle.js"
+    "main.895d8746.iframe.bundle.js"
   ]
 }
